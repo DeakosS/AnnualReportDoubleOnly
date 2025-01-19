@@ -19,7 +19,7 @@ export default defineConfig({
   build: {
     outDir: './dist/',  // 输出目录
   },
-  base: '/2024Report/',
+  base: '/AnnualReportDoubleOnly/',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
