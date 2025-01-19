@@ -5,14 +5,14 @@ export var key = '';
 
 export const myavatar = ref('./header/header13.webp');
 export const hisavatar = ref('./header/header45.webp');
-export const mynickname = ref('浅梦');
-export const hisnickname = ref('故人依旧');
+export const mynickname = ref('猫猫侠');
+export const hisnickname = ref('宝宝酱');
 
 export const CardData = ref({
     myavatarSrc: './header/header13.webp',
     hisavatarSrc: './header/header45.webp',
-    mynickname: '浅梦',
-    hisnickname: '故人依旧',
+    mynickname: '猫猫侠',
+    hisnickname: '宝宝酱',
     summaryText: '真挚浪漫的熬夜冠军',
     firstChatDate: '2020-07-11',
     mostChatYear: '2024',
