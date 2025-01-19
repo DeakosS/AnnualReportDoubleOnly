@@ -77,13 +77,13 @@
                             </div>
                         </div>
                         <div class="qrcode">
-                            <img src="../../public/url_qrcode.svg" alt="QrCode">
+                            <!-- <img src="../../public/url_qrcode.svg" alt="QrCode"> -->
                         </div>
                     </div>
                 </div>
                 <div class="copyright">
-                    <img src="../../public/favicon.ico" alt="">
-                    <span>memotrace.cn</span>
+                    <!-- <img src="../../public/favicon.ico" alt="">
+                    <span>memotrace.cn</span> -->
                 </div>
 
                 <div class="bottom">
