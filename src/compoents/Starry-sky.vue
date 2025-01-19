@@ -5,9 +5,6 @@
 		</div>
 		
 	</div>
-	<a href="https://github.com/LC044/AnnualReport" target="_blank" class="github">
-		<img src="/icon/github-dark.svg" alt="Logo" />
-	</a>
 </template>
 
 <script setup name="CosmicSky">
