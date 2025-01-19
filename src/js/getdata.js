@@ -280,10 +280,10 @@ export const wxid = 'wxid_1234567890';
 // 头像链接
 export const reportName = '2024微信聊天报告';
 // 网站链接
-// export const websiteUrl = 'https://memotrace.cn';
+export const websiteUrl = '';
 // 网站链接文本显示内容
-// export const websiteUrlText = 'memotrace.cn';
+export const websiteUrlText = '';
 // 底部文本
-// export const bottomText = '扫一扫制作专属你的微信聊天报告';
+export const bottomText = '';
 
 export const UPLOAD_URL = ''
