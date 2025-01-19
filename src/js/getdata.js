@@ -284,6 +284,6 @@ export const websiteUrl = '';
 // 网站链接文本显示内容
 export const websiteUrlText = '';
 // 底部文本
-export const bottomText = '';
+export const bottomText = '数据截止日期：2025年1月20日';
 
 export const UPLOAD_URL = ''
