@@ -40,11 +40,11 @@ jobs:
         run: npm run build
 
       # Upload build artifact to deploy
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./dist  # 这里假设你的构建文件输出到 dist 文件夹
-          name: dist-build-artifact  # 为 artifact 指定唯一名称
+      # - name: Upload artifact
+      #   uses: actions/upload-pages-artifact@v3
+      #   with:
+      #     path: ./dist  # 这里假设你的构建文件输出到 dist 文件夹
+      #     name: dist-build-artifact  # 为 artifact 指定唯一名称
   # Deployment job
   deploy:
     environment:
