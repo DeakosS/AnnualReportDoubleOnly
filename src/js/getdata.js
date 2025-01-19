@@ -14,7 +14,7 @@ export const CardData = ref({
     mynickname: '猫猫侠',
     hisnickname: '宝宝酱',
     summaryText: '真挚浪漫的熬夜冠军',
-    firstChatDate: '2020-07-11',
+    firstChatDate: '2022-04-21 11:14',
     mostChatYear: '2024',
     mostChatMonth: '04',
     mostChatCount: 2740,
@@ -129,26 +129,31 @@ export const quarterData = ref([
 export const FirstData_isReady = ref(true);
 export const firstChatData = ref({
     "firstChatDate": {
-        "year": "2020",
-        "month": "07",
-        "day": "11"
+        "year": "2022",
+        "month": "04",
+        "day": "21 11:14"
     },
-    "initiator": "浅梦",
+    "initiator": "猫猫侠",
     "conversation": [
         {
             "side": "right",
             "avatarSrc": "/header/header13.webp",
-            "content": "刚寄出去，要十多天才会到"
+            "content": "川邀请您加入群聊‘苏州大学图情档在校研究生’"
         },
         {
             "side": "left",
             "avatarSrc": "/header/header45.webp",
-            "content": "希望我还能坚持到那时候"
+            "content": "佰川，这是什么"
         },
         {
             "side": "right",
             "avatarSrc": "/header/header13.webp",
-            "content": "明年有空再拿也行"
+            "content": "俺也不太清楚，老师让拉的"
+        },
+        {
+            "side": "left",
+            "avatarSrc": "/header/header45.webp",
+            "content": "哦哦，好的"
         }
     ]
 })
