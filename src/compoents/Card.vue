@@ -747,7 +747,7 @@ function displayQRCode(url) {
 
 @media screen and (max-width: 1080px) {
     .buttons {
-        display: none;
+        display: block;
     }
 }
 
