@@ -55,7 +55,7 @@ export const CardData = ref({
     ],
 });
 
-export const daysSinceFirstChat = ref(1345);
+export const daysSinceFirstChat = ref(1012);
 export const cardName = ref('2024年度报告');
 
 
@@ -138,7 +138,7 @@ export const firstChatData = ref({
         {
             "side": "right",
             "avatarSrc": "/header/header13.webp",
-            "content": "川邀请您加入群聊‘苏州大学图情档在校研究生’"
+            "content": "川邀请您加入群聊“苏州大学图情档在校研究生”"
         },
         {
             "side": "left",
@@ -213,9 +213,9 @@ export const Welcome_data = {
     descriptionText: {
         hello: "Hello World!",
         text1: "时光荏苒，转眼间我们又走过了一年。",
-        text2: "在过去的365天里，从深夜的长谈到清晨的祝福，从好友间的调侃到工作中的忙碌……",
-        text4: "这些聊天记录，是属于你的独家记忆。",
-        text7: "打开报告，开启你的专属年度记忆吧！"
+        text2: "在过去的365天里，从深夜的长谈到清晨的早安，从生活中的琐事到工作中的忙碌……",
+        text4: "这些聊天记录，是属于我们的独家记忆。",
+        text7: "打开报告，开启我们的专属年度记忆吧！"
     }
 }
 
