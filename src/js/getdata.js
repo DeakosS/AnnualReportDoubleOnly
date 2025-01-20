@@ -50,7 +50,8 @@ export const CardData = ref({
         },
         {
             "label": "常用emoji表情",
-            "image": "./header/header44.webp"
+            "image": "./header/blockwulian.webp",
+            "image": "./header/blockdoge.webp"
         }
     ],
 });
