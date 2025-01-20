@@ -133,27 +133,32 @@ export const firstChatData = ref({
         "month": "04",
         "day": "21"
     },
-    "initiator": "猫猫侠",
+    "initiator": "宝宝酱",
     "conversation": [
         {
-            "side": "right",
-            "avatarSrc": "/header/header13.webp",
-            "content": "川邀请您加入群聊“苏州大学图情档在校研究生”"
+            "side": "left",
+            "avatarSrc": "/header/header45.webp",
+            "content": "猫猫侠"
         },
         {
             "side": "left",
             "avatarSrc": "/header/header45.webp",
-            "content": "佰川，这是什么"
-        },
-        {
-            "side": "right",
-            "avatarSrc": "/header/header13.webp",
-            "content": "俺也不太清楚，老师让拉的"
+            "content": "做梦梦到我导催我稿了"
         },
         {
             "side": "left",
             "avatarSrc": "/header/header45.webp",
-            "content": "哦哦，好的"
+            "content": "呜呜焦虑了"
+        },
+        {
+            "side": "right",
+            "avatarSrc": "/header/header13.webp",
+            "content": "早宝子"
+        },
+        {
+            "side": "right",
+            "avatarSrc": "/header/header13.webp",
+            "content": "抱抱宝宝"
         }
     ]
 })
