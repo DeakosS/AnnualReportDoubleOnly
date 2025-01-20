@@ -13,7 +13,7 @@ export const CardData = ref({
     hisavatarSrc: './header/header45.webp',
     mynickname: '猫猫侠',
     hisnickname: '宝宝酱',
-    summaryText: '真挚浪漫的熬夜冠军',
+    summaryText: '夜晚，总是真情涌动的时刻',
     firstChatDate: '2022-04-21 11:14',
     mostChatYear: '2024',
     mostChatMonth: '02',
