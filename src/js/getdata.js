@@ -88,13 +88,13 @@ export const Calendardata = ref({
 });
 
 export const chatData = ref({
-    mynickname: "浅梦",
-    hisnickname: "故人依旧",
-    totalmessages:15976,
-    totalwords: 89908,
-    totalvoice: 320,
-    totalimages: 1769,
-    totalemojis: 25,
+    mynickname: "猫猫侠",
+    hisnickname: "宝宝酱",
+    totalmessages:57279,
+    totalwords: 274141,
+    totalvoice: 99,
+    totalimages: 1733,
+    totalemojis: 9013,
     emoji: "./header/header44.webp",
     send_msg_num:12306,
     receive_msg_num:18309,
