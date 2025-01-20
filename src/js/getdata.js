@@ -16,40 +16,40 @@ export const CardData = ref({
     summaryText: '真挚浪漫的熬夜冠军',
     firstChatDate: '2022-04-21 11:14',
     mostChatYear: '2024',
-    mostChatMonth: '04',
-    mostChatCount: 2740,
+    mostChatMonth: '02',
+    mostChatCount: 7563,
     leftTags: [
         {
             "label": "聊天天数",
-            "value": 206,
+            "value": 360,
             "unit": "天"
         },
         {
-            "label": "发送消息",
-            "value": 4631,
+            "label": "侠发送消息",
+            "value": 26594,
             "unit": "条"
         },
         {
-            "label": "收到消息",
-            "value": 6484,
+            "label": "酱发送消息",
+            "value": 30685,
             "unit": "条"
         },
         {
             "label": "总字数",
-            "value": 89908,
+            "value": 274141,
             "unit": "字"
         }],
     rightTags: [
         {
             "label": "年度关键词",
-            "value": "哈哈哈"
+            "value": "吃东西&收拾"
         },
         {
             "label": "活跃时段",
-            "value": "22:00-02:00"
+            "value": "20:00-23:00"
         },
         {
-            "label": "常用表情包",
+            "label": "常用emoji表情",
             "image": "./header/header44.webp"
         }
     ],
