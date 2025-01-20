@@ -278,7 +278,7 @@ export const chatdescription = ref({
     }
 });
 
-export const summaryText = ref('真挚浪漫的熬夜冠军');
+export const summaryText = ref('夜晚，总是真情涌动时');
 
 export const wxid = 'wxid_1234567890';
 
