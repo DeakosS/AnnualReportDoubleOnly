@@ -100,7 +100,7 @@ export const chatData = ref({
 	emoji2: "./header/blockdoge.webp",
     send_msg_num:26594,
     receive_msg_num:30685,
-    total_message_size:2345, // 聊天数据大小，单位：MB
+    total_message_size:922, // 聊天数据大小，单位：MB
     my_type_count:[['文本',18548],['图片',516],['语音',27],['表情包',6302],['视频',26],['分享链接',1062]],
     ta_type_count:[['文本',24305],['图片',1217],['语音',72],['表情包',2711],['视频',12],['分享链接',1474]],
 });
