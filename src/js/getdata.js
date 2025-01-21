@@ -49,9 +49,9 @@ export const CardData = ref({
             "value": "20:00-23:00"
         },
         {
-            "label": "常用emoji表情",
+            "label": "我们常用emoji表情",
             "image": "./header/blockwulian.webp",
-            "image": "./header/blockdoge.webp"
+			"image1": "./header/blockdoge.webp"
         }
     ],
 });
@@ -236,36 +236,36 @@ export const allText = ref([
 export const chatdescription = ref({
     "timedes": "深夜的",
     "summary": "你们最爱在深夜聊天",
-    "timePeriod": "22:00-02:00",
+    "timePeriod": "20:00-23:00",
     "quote": [
         "每一次热烈的对话",
         "都是灵魂的一次旅行"
     ],
     "data": [
-        668,
-        412,
-        7,
-        0,
-        0,
-        4,
-        0,
-        63,
-        14,
-        195,
-        576,
-        564,
-        627,
-        554,
-        561,
-        589,
-        736,
-        539,
-        743,
-        754,
-        656,
-        791,
-        1187,
-        875
+        1251,
+        419,
+        313,
+        55,
+        57,
+        97,
+        41,
+        441,
+        1940,
+        2890,
+        3209,
+        3741,
+        3003,
+        1462,
+        2045,
+        2133,
+        3150,
+        3624,
+        2969,
+        3268,
+        4652,
+        5346,
+        7374,
+        3799
     ],
     "remarks": [
         "你们聊到很晚",
@@ -274,8 +274,8 @@ export const chatdescription = ref({
     "favoriteChatDate": {
         "is_exist": 1,
         "year": "2024",
-        "month": "08",
-        "day": "27"
+        "month": "04",
+        "day": "20"
     }
 });
 
