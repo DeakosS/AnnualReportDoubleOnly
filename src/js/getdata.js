@@ -96,7 +96,7 @@ export const chatData = ref({
     totalvoice: 99,
     totalimages: 1733,
     totalemojis: 9013,
-    emoji: "./header/header44.webp",
+    emoji: "./header/blockwulian.webp",
     emoji2: "./header/blockdoge.webp",
     send_msg_num:26594,
     receive_msg_num:30685,
