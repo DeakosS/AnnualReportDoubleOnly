@@ -97,6 +97,7 @@ export const chatData = ref({
     totalimages: 1733,
     totalemojis: 9013,
     emoji: "./header/header44.webp",
+    emoji2: "./header/blockdoge.webp",
     send_msg_num:26594,
     receive_msg_num:30685,
     total_message_size:2345, // 聊天数据大小，单位：MB
