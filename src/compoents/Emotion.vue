@@ -1,7 +1,7 @@
 <template>
 	<div class="container">
 		<header class="clearfix">
-			<h2>四季感悟</h2>
+			<h2>心意流转</h2>
 			<div class="support-note">
 				<span class="note-ie">对不起，请使用最新浏览器.</span>
 			</div>
