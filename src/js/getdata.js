@@ -97,11 +97,11 @@ export const chatData = ref({
     totalimages: 1733,
     totalemojis: 9013,
     emoji: "./header/header44.webp",
-    send_msg_num:12306,
-    receive_msg_num:18309,
+    send_msg_num:26594,
+    receive_msg_num:30685,
     total_message_size:2345, // 聊天数据大小，单位：MB
-    my_type_count:[['文本',10000],['图片',2000],['视频',500],['表情包',5000],['视频',100],['文件',50]],
-    ta_type_count:[['文本',5000],['图片',1000],['视频',100],['表情包',2000],['视频',50],['文件',80]],
+    my_type_count:[['文本',18548],['图片',516],['语音',27],['表情包',6302],['视频',26],['分享链接',1062]],
+    ta_type_count:[['文本',24305],['图片',1217],['语音',72],['表情包',2711],['视频',12],['分享链接',1474]],
 });
 
 export const quarterData = ref([
