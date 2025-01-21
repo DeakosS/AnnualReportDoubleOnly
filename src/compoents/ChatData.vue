@@ -20,10 +20,11 @@
                 表情包<span class="tag-content">{{ chatData.totalemojis }}</span>张
             </div>
             <div class="tag-title">
-                我们最爱用的表情是
+                我们最爱用的emoji是
             </div>
             <div class="img-section">
                 <img :src="chatData.emoji" alt="">
+                <img :src="chatData.emoji2" alt="">
             </div>
         </div>
     </div>
@@ -82,8 +83,12 @@ console.log("chatData:", chatData)
 
 .img-section{
     display: flex;
-    justify-content: flex-end;
-    flex-direction: column;
+    justify-content: left;
+	align-items: lefts;  
+    flex-direction: row;
+	margin-left: auto;
+    margin-right: auto;
+    width: fit-content;    
 }
 
 img {
