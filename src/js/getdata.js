@@ -97,7 +97,7 @@ export const chatData = ref({
     totalimages: 1733,
     totalemojis: 9013,
     emoji: "./header/blockwulian.webp",
-    emoji2: "./header/blockdoge.webp",
+	emoji2: "./header/blockdoge.webp",
     send_msg_num:26594,
     receive_msg_num:30685,
     total_message_size:2345, // 聊天数据大小，单位：MB
@@ -167,49 +167,49 @@ export const firstChatData = ref({
 
 export const keyWordsData = ref({
     "mykeyWord": {
-        "keyWord": "哈哈哈",
-        "keyWordCount": 82
+        "keyWord": "宝宝",
+        "keyWordCount": 837
     },
     "takeyWord": {
-        "keyWord": "哈哈",
-        "keyWordCount": 111
+        "keyWord": "猫猫",
+        "keyWordCount": 217
     },
     "messages": [
         {
             "side": "right",
-            "content": "你怎么样哈哈哈",
+            "content": "此生唯宝宝和美食不可辜负",
         },
         {
             "side": "left",
-            "content": "哈哈没事",
+            "content": "猫猫猪",
         },
         {
             "side": "right",
-            "content": "哈哈哈很好玩的",
+            "content": "安静的抱抱宝宝",
         },
         {
             "side": "left",
-            "content": "确实挺不错哈哈哈",
+            "content": "胖脸猫猫",
         },
         {
             "side": "right",
-            "content": "这个一模一样哈哈哈哈",
+            "content": "宝宝读书大业不容差池",
         },
         {
             "side": "left",
-            "content": "是的哈哈",
+            "content": "奥密克戎大人，猫猫侠无意冒犯",
         }
     ]
 });
 
 export const mykeyWord = ref({
-    "keyWord": "哈哈哈",
-    "keyWordCount": 82
+    "keyWord": "宝宝",
+    "keyWordCount": 837
 });
 
 export const takeyWord = ref({
-    "keyWord": "哈哈",
-    "keyWordCount": 111
+    "keyWord": "猫猫",
+    "keyWordCount": 217
 });
 
 export const isReady = ref(false);
