@@ -16,15 +16,15 @@
                 2024年
             </div>
             <div class="left">
-                <div>你们一共产生了<br><span class="time-period">{{chatData.total_message_size}}MB</span>
+                <div>我们一共产生了约<br><span class="time-period">{{chatData.total_message_size}}MB</span>
                     的聊天数据</div>
                 <div>相当于<span class="time-period">{{ messageSizeData.imageNum }}</span>张图片</div>
                 <div>或<span class="time-period">{{ messageSizeData.musicNum }}</span>首音乐</div>
                 <div>或<span class="time-period">{{ messageSizeData.videoNum }}</span>部高清视频</div>
             </div>
             <div class="right">
-                <div>内存杀手？</div>
-                <div>不删是我对你最大的尊敬</div>
+                <div>内存掌控者</div>
+                <div>换个512G手机是我对你最大的爱意</div>
             </div>
         </div>
     </div>
