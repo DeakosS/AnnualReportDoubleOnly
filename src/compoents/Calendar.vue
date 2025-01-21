@@ -158,14 +158,14 @@ const drawChart = (chartId, ChatCalendarData, max_day_count, min_day_count) => {
             outOfRange: {
                 color: '#000' // 0 或不在范围内的数据颜色
             },
-            pieces: generatePieces(max_day_count, 200, interpolateColors(colors1, 100)),
+            pieces: generatePieces(max_day_count, 600, interpolateColors(colors1, 100)),
         },
         calendar: {
             top: 120,
             left: 30,
             right: 30,
             cellSize: ['auto', cellSize],
-            range: '2024',
+            range: ['2024-02-02', '2025-01-20'],
             itemStyle: {
                 borderWidth: 0.5,
             },
