@@ -71,6 +71,7 @@
                             <div class="tag-template">{{ tag.label }}</div>
                             <div v-if="tag.image">
                                 <img :src="tag.image" alt="Tag Image">
+                                <img :src="tag.image1" alt="Tag Image">
                             </div>
                             <div v-else>
                                 <span class="tag-content">{{ tag.value }}</span>
