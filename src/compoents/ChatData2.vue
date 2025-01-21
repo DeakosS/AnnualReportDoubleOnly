@@ -34,7 +34,7 @@ const drawChart = (chartId, index, timePeriodData) => {
     console.log("timePeriodData:", timePeriodData);
     const chartDom = document.getElementById(chartId);
     const myChart = echarts.init(chartDom);
-    const indicator = ['文本','图片','视频','表情包','视频','文件'];
+    const indicator = ['文本','图片','语音','表情包','视频','分享链接'];
     // 将 my_type_count 和 ta_type_count 转换为对象
     const myCountMap = Object.fromEntries(chatData.value.my_type_count);
     const taCountMap = Object.fromEntries(chatData.value.ta_type_count);
